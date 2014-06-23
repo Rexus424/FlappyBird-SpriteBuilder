@@ -7,6 +7,7 @@
 - (void)initialize
 {
     // your code here
+    
 }
 
 -(void)update:(CCTime)delta
